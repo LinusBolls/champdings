@@ -1,4 +1,4 @@
-export class Champion {
+export abstract class Champion {
 
     readonly name: string;
     readonly totalAd: number;
